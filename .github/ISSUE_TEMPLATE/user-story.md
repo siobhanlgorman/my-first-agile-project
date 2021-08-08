@@ -15,6 +15,6 @@ Acceptance Criteria
 3.
 
 Tasks
-[ ]1.
-[ ]2.
-[ ]3.
+- [ ]1.
+- [ ]2.
+- [ ]3.
